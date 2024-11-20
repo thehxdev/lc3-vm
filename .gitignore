@@ -1,0 +1,6 @@
+.cache/
+lc3-vm
+*.o
+*.obj
+compile_commands.json
+compile_flags.txt
